@@ -1,2 +1,2 @@
 # SwingLocadora
-Locadora de carros desenvolvida em Java utilizando Swing
+Locadora desenvolvida em Java utilizando Swing
